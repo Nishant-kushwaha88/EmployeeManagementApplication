@@ -22,12 +22,4 @@ Frontend
 4. Axios Integration: Handles asynchronous data fetching and sending requests to the backend APIs.
 5. Reactstrap and Toastify: Enhance the UI by providing Bootstrap-based components and user-friendly notification pop-ups.
 
-# How to Run
-Clone the repository to your local machine.
-1. Navigate to the backend directory.
-2. Configure the database settings in application.yml.
-3. Run mvn spring-boot:run to start the Spring Boot backend server.
-4. Navigate to the frontend directory.
-5. Install dependencies using npm install or yarn install.
-6. Start the frontend server with npm start or yarn start.
-7. Access the application in your web browser at http://localhost:3000.
+
