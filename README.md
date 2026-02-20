@@ -1,4 +1,4 @@
-# Spring Boot and React JS CRUD Application
+# Employee Management Application
 This repository contains a Full-Stack Web Application built with Spring Boot for the backend and React JS for the frontend. The application provides APIs for performing CRUD (Create, Read, Update, Delete) operations on data and displays the results on the frontend interface.
 
 # Technologies Used
