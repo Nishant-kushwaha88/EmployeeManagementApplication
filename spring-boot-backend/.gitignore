@@ -1,17 +1,40 @@
+# ======================
+# Spring Boot / Java
+# ======================
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
 
-
-
 /mvnw.bat
 /mvnw.cmd
 /mvnw
 /.mvn/
 
+# ======================
+# Node / React
+# ======================
+react-js-frontend/node_modules/
+node_modules/
 
+# React build files
+build/
+dist/
+
+# ======================
+# Logs
+# ======================
+*.log
+
+# ======================
+# Environment files
+# ======================
+.env
+
+# ======================
+# IDE Files
+# ======================
 
 ### STS ###
 .apt_generated
